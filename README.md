@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Dubemobinna/Dubemobinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on expanding my portfolio
 - 🌱 I’m currently learning: Web development
 - 👯 I’m looking to collaborate on any project on technical writing
@@ -13,8 +8,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy teaching as well
 
-
-:closed_books: **Latest Technical Articles**
+:closed_book: **Latest Technical Articles**
 
 - [Introduction to Markdown](https://medium.com/@dubemobinnaesiowu/introduction-to-markdown-b2ef15cd67f6)
 - [A beginner's guide to Appwrite](https://medium.com/@dubemobinnaesiowu/a-beginners-guide-to-appwrite-44a9501bac69)
