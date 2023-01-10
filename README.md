@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - [How to test technical documentation usability](https://medium.com/@dubemobinnaesiowu/how-to-test-technical-documentation-usability-74ad0c8d27c)
 - [How to create a mobile application requirement document](https://medium.com/@dubemobinnaesiowu/how-to-create-a-mobile-application-requirement-document-716c1c5faea1)
 - [DevOps vs. Agile: How they interrelate](https://medium.com/@dubemobinnaesiowu/devops-vs-agile-how-they-interrelate-50028846fe07)
-
-
