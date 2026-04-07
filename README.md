@@ -1,9 +1,9 @@
 ### Hi there 👋  I'm Dubem Obinna-Esiowu
 
 - 🔭 I’m currently working on expanding my portfolio
-- 🌱 I’m currently learning: Web development
-- 👯 I’m looking to collaborate on any project on technical writing
-- 💬 Ask me about Technical writing, SEO, Copywriting, 
+- 🌱 I’m currently building: [Reservr](getreservr.app)
+- 👯 I’m looking to collaborate on any open source project
+- 💬 Ask me about Technical writing, Developer Documentation, API Documentation
 - 📫 How to reach me: dubemobinnaesiowu@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy teaching as well
