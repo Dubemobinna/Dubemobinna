@@ -10,6 +10,8 @@
 
 :closed_book: **Latest Technical Articles**
 
+- [Recursion in Python](https://medium.com/@dubemobinnaesiowu/recursion-in-python-e5587e579c01)
+- [Impleenting Zero Trust Architecture in Kubernetes: Strategies and Best Practices](https://medium.com/@dubemobinnaesiowu/implementing-zero-trust-architecture-in-kubernetes-strategies-and-best-practices-6256c13c065b)
 - [Introduction to Markdown](https://medium.com/@dubemobinnaesiowu/introduction-to-markdown-b2ef15cd67f6)
 - [A beginner's guide to Appwrite](https://medium.com/@dubemobinnaesiowu/a-beginners-guide-to-appwrite-44a9501bac69)
 - [How to test technical documentation usability](https://medium.com/@dubemobinnaesiowu/how-to-test-technical-documentation-usability-74ad0c8d27c)
