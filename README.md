@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Dubem Obinna-Esiowu
 
-- 🔭 I’m currently working on expanding my portfolio
+- 🔭 I’m currently interested in: APIs, Documentation, Docs-as-code, AI
 - 🌱 I’m currently building: [Reservr](getreservr.app)
 - 👯 I’m looking to collaborate on any open source project
 - 💬 Ask me about Technical writing, Developer Documentation, API Documentation
